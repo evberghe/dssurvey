@@ -1,4 +1,4 @@
-# Adding a change here
+# Adding a change here; and a change on the cloned repository
 # Author: evberghe
 ###############################################################################
 
