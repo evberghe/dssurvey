@@ -1,7 +1,7 @@
 # Analysing the analysers - the sequel
 
 ```{r preliminaries}
-# run following two lines from the CLI; will then generate the rest ofthe HTML file
+# run following two lines from the CLI; will then generate the rest of the HTML file
 # setwd("dssurvey")
 # library("knitr"); knit2html("analyse.Rmd")
 source("readdata.R"); mydata <- readdata("data/Gegevens_Allemaal_150413.zip")
